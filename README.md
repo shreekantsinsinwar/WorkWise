@@ -24,7 +24,15 @@ WorkWise is your personalized Pomodoro timer with a built-in distraction tracker
 ### Screenshots:
 
 > ![Screenshots](Screenshot1.png)
-> 
+
+
+> ![Screenshots](Screenshot2.png)
+
+
+> ![Screenshots](Screenshot3.png)
+
+
+> ![Screenshots](Screenshot4.png)
 
 
 
@@ -38,6 +46,8 @@ Run this inside your project directory:
 
 ```bash
 pip install -r requirements.txt
+```
+
 
 ### Create the installer for your system.
 
@@ -73,8 +83,8 @@ Download the installer for your OS:
 
 | Platform | Installer Link |
 |---------|----------------|
-| 🪟 Windows | `GrowEI.exe` |
-| 🍎 macOS | `GrowEI.dmg` |
-| 🐧 Linux | `GrowEI.AppImage` |
+| 🪟 Windows | `WorkWise.exe` |
+| 🍎 macOS | `WorkWise.dmg` |
+| 🐧 Linux | `WorkWise.AppImage` |
 
 > No Python needed with these – just install and launch!
